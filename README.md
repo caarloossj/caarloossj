@@ -1,6 +1,6 @@
 ### Hi there, I'm [Carlos Jiménez](https://github.com/caarloossj) 👋
 
-I'm in my second year of a higher degree at [IFP Hospitalet](https://www.ifp.es/fp-barcelona), Barcelona. I'm also a video editor, graphic designer and content creator.
+I'm in my second year of a higher degree in Multiplatform Application Development, video games and digital entertainment in [IFP Hospitalet](https://www.ifp.es/fp-barcelona), Barcelona. In my spare time I'm a video editor, graphic designer and content creator.
 
 ## Skills:
 
