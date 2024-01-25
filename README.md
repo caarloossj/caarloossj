@@ -31,6 +31,6 @@ I'm in my second year of a higher degree in Multiplatform Application Developmen
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](caarloossj,github.io)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]([caarloossj,github.io](https://caarloossj.github.io/))
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/carlos-jim%C3%A9nez-soneira/)
 </p>
